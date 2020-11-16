@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "366424942003",
+    "firebase_url": "https://bookmarklecture.firebaseio.com",
+    "project_id": "bookmarklecture",
+    "storage_bucket": "bookmarklecture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366424942003:android:46be142dce20cb834757c6",
+        "android_client_info": {
+          "package_name": "com.raneem.bookmarklecture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366424942003-ace4bsd3vm88t0u9022vrv61iccjf2k2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raneem.bookmarklecture",
+            "certificate_hash": "90a1c4a638c7d0dd9095a711230c439ac30eaac0"
+          }
+        },
+        {
+          "client_id": "366424942003-ah2fbqvka4sq2q68fdsdjrhha5k1u3bj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGU-E2GwlzPoDS66sT825M-1GCvGSrQ-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366424942003-ah2fbqvka4sq2q68fdsdjrhha5k1u3bj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
